@@ -1,4 +1,6 @@
-### Welcome to my Github! I'm currently a computer science major at Drexel University and I work on different project in my off time between classes. In my github, you will find several repositories that contain some of those projects. Go have a look around!
+### Welcome to my Github! 
+
+<h1> I'm currently a computer science major at Drexel University and I work on different project in my off time between classes. In my github, you will find several repositories that contain some of those projects. Go have a look around! </h1>
 
 <!--
 **APieceOfPie/APieceOfPIe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
